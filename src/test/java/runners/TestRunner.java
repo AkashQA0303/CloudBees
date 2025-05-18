@@ -8,7 +8,7 @@ import io.cucumber.testng.CucumberOptions;
 @CucumberOptions(
 		features = "src/test/resources/features",
 		glue= {"stepDefinitions","driverSetUp"},
-		tags = "@git",
+	//	tags = "@git",
 		plugin = {
                 "pretty",  // Prints detailed logs in the console
                 "json:target/cucumber-report/cucumber.json",  // Generates JSON report

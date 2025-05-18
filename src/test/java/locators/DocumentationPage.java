@@ -26,7 +26,7 @@ public class DocumentationPage {
     }};
     
     private final Map<String, By> modalDialogLocator = new HashMap<String, By>() {{
-        put("web", By.xpath("//*[@class='moda-dialog modal-fullscreen  ']"));
+        put("web", By.xpath("//*[@class='modal-dialog modal-fullscreen  ']"));
         put("android", By.id("")); // add if applicable
         put("ios", By.id(""));     // add if applicable
     }};
