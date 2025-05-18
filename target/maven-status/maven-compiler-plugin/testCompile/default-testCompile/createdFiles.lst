@@ -1,0 +1,9 @@
+driverSetUp\CapabilitiesManager.class
+stepDefinitions\homePageSteps.class
+stepDefinitions\resourcesPageSteps.class
+driverSetUp\BaseTest.class
+runners\TestRunner.class
+stepDefinitions\productPageSteps.class
+stepDefinitions\documentationPageSteps.class
+driverSetUp\DriverManager.class
+stepDefinitions\commonSteps.class

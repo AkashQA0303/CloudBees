@@ -1,0 +1,15 @@
+C:\Users\acer\eclipse-workspace\Cloud\src\test\java\driverSetUp\BaseTest.java
+C:\Users\acer\eclipse-workspace\Cloud\src\test\java\driverSetUp\CapabilitiesManager.java
+C:\Users\acer\eclipse-workspace\Cloud\src\test\java\driverSetUp\ConfigManager.java
+C:\Users\acer\eclipse-workspace\Cloud\src\test\java\driverSetUp\DriverManager.java
+C:\Users\acer\eclipse-workspace\Cloud\src\test\java\driverSetUp\Hooks.java
+C:\Users\acer\eclipse-workspace\Cloud\src\test\java\locators\HomePage.java
+C:\Users\acer\eclipse-workspace\Cloud\src\test\java\locators\LocatorHelper.java
+C:\Users\acer\eclipse-workspace\Cloud\src\test\java\locators\ProductPage.java
+C:\Users\acer\eclipse-workspace\Cloud\src\test\java\runners\TestRunner.java
+C:\Users\acer\eclipse-workspace\Cloud\src\test\java\stepDefinitions\commonSteps.java
+C:\Users\acer\eclipse-workspace\Cloud\src\test\java\stepDefinitions\documentationPageSteps.java
+C:\Users\acer\eclipse-workspace\Cloud\src\test\java\stepDefinitions\homePageSteps.java
+C:\Users\acer\eclipse-workspace\Cloud\src\test\java\stepDefinitions\productPageSteps.java
+C:\Users\acer\eclipse-workspace\Cloud\src\test\java\stepDefinitions\resourcesPageSteps.java
+C:\Users\acer\eclipse-workspace\Cloud\src\test\java\utilities\WaitHelper.java

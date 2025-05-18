@@ -1,0 +1,18 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 23.68 s <<< FAILURE! -- in TestSuite
+runners.TestRunner.runScenario["Validate CloudBees Application Flow", "CloudBees Website Testing"](1) -- Time elapsed: 22.17 s <<< FAILURE!
+java.lang.IllegalArgumentException: Locator must be set
+	at org.openqa.selenium.internal.Require.nonNull(Require.java:64)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:360)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:194)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:190)
+	at org.openqa.selenium.support.ui.ExpectedConditions$22.apply(ExpectedConditions.java:627)
+	at org.openqa.selenium.support.ui.ExpectedConditions$22.apply(ExpectedConditions.java:624)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:203)
+	at utilities.WaitHelper.waitForElementToBeClickable(WaitHelper.java:26)
+	at locators.HomePage.clickSubMenuLink(HomePage.java:52)
+	at stepDefinitions.homePageSteps.user_clicks_sub_link_under_top_menu(homePageSteps.java:30)
+	at ✽.user clicks sub link under top menu "CloudBees CD/RO"(file:///C:/Users/acer/eclipse-workspace/Cloud/src/test/resources/features/webpage.feature:7)
+
